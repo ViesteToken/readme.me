@@ -1,4 +1,4 @@
-# Welcome to HashLips 👄
+# Welcome to Viestetoken
 
 ![](https://github.com/viestetoken)
 
@@ -17,8 +17,6 @@ To find out more please visit:
 [ℹ️ Website](https://viestetoken-crypto.com)
 
 # HashLips Art Engine 🔥
-
-![](https://github.com/HashLips/hashlips_art_engine/blob/main/banner.png)
 
 Create generative art by using the canvas api and node js. Before you use the generation engine, make sure you have node.js(v10.18.0) installed.
 
@@ -197,7 +195,7 @@ The program will output all the images in the `build/images` directory along wit
   "dna": "d956cdf4e460508b5ff90c21974124f68d6edc34",
   "name": "#1",
   "description": "This is the description of your NFT project",
-  "image": "https://hashlips/nft/1.png",
+  "image": "",
   "edition": 1,
   "date": 1731990799975,
   "attributes": [
